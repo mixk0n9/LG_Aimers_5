@@ -7,7 +7,7 @@
 
 **:high_brightness:온라인 10위 (상위 1.4%), 오프라인 진출 예정:high_brightness:**
 
-<img src="./LG Aimers_5_images/LG aimers 5_online.png" width="800" height="150"/>
+<img src="./LG Aimers_5_images/LG aimers 5_online.png" width="800" height="300"/>
 
 
 ----------------------
