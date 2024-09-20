@@ -1,13 +1,13 @@
 # :factory:LG전자 공정 불량 예측 분석:factory:
 
-<img src="./LG Aimers_5_images/lg.png" width="800" height="400"/>
+<img src="./LG Aimers_5_images/lg.png" width="300" height="120"/>
 
 
 **LG Aimers 5기 해커톤**
 
 **:high_brightness:온라인 10위 (상위 1.4%), 오프라인 진출 예정:high_brightness:**
 
-<img src="./LG Aimers_5_images/LG aimers 5_online.png" width="800" height="200"/>
+<img src="./LG Aimers_5_images/LG aimers 5_online.png" width="800" height="150"/>
 
 
 ----------------------
@@ -58,4 +58,4 @@ LG전자 제공 데이터: 차량 디스플레이 제품 공정 데이터
 
 <img src="./LG Aimers_5_images/취업 포트폴리오 최종_22.png" width="800" height="400"/>
 
-<img src="./MLOps_images/취업 포트폴리오 최종_23.png" width="800" height="400"/>
+<img src="./LG Aimers_5_images/취업 포트폴리오 최종_23.png" width="800" height="400"/>
