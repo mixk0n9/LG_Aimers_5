@@ -1,8 +1,14 @@
 # :factory:LG전자 공정 불량 예측 분석:factory:
 
+<img src="./MLOps_images/취업 포트폴리오 최종_25.png" width="800" height="400"/>
+
+
 **LG Aimers 5기 해커톤**
 
-온라인 10위 (상위 1.4%), 오프라인 진출 예정
+**:high_brightness:온라인 10위 (상위 1.4%), 오프라인 진출 예정:high_brightness:**
+
+<img src="./MLOps_images/취업 포트폴리오 최종_25.png" width="800" height="400"/>
+
 
 ----------------------
 
